@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @davistimothy
-- 🏫 I'm the Digital Content Manager @ wbu.edu
-- 🌱 I’m currently focusing on Front End Development, but interested in everything development related
-- 📫 Reach me via davist@wbu.edu
+- 🏫 I'm an Engagement Analyst @ element451.com
+- 🌱 Currently focused on data pipelines. Learning Front end for fun.
+- 📫 Reach me via hello@timothydavis.me
 
 <!---
 davistimothy/davistimothy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
