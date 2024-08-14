@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @davistimothy
-- 🏫 I'm an Engagement Analyst @ element451.com
+- 🏫 I'm an Data Analyst @ element451.com
 - 🌱 Currently focused on data pipelines. Learning Front end for fun.
 - 📫 Reach me via hello@timothydavis.me
 
